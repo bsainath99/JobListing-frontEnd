@@ -1,5 +1,5 @@
 
-# Job Listiing Front End Application 
+# Job Listing Front End Application 
 For the **backend** application implementation, I've done a separate project with name **joblisting-backEnd**  with github link: https://github.com/bsainath99/JobListing-Backend.git
 
 
